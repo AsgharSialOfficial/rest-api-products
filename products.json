@@ -1,0 +1,38 @@
+[{
+"name":"Iphone1",
+"price":45,
+"feature":true,
+"company":"apple"
+
+
+
+},{
+    "name":"Iphone2",
+"price":40,
+"feature":true,
+"company":"apple"
+},
+{
+    "name":"watch",
+"price":35,
+"feature":true,
+"company":"apple"
+},{
+    "name":"dell laptop",
+"price":55,
+
+"company":"dell"
+},
+{
+    "name":"php laptop",
+"price":45,
+"feature":true,
+"company":"samsung"
+},
+{
+    "name":"Airbuds",
+"price":30,
+"feature":true,
+"company":"apple"
+}
+]
